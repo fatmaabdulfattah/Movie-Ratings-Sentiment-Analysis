@@ -26,7 +26,7 @@ The Kaggle notebook performs sentiment analysis on the IMDB movie review dataset
 
 
 ### How to Use
-1. Open the notebook on Kaggle: [[Kaggle Notebook Link](https://www.kaggle.com/code/fatmaabdulfattah/movie-ratings-sentiment-analysis)](#) 
+1. Open the notebook on Kaggle: [[movie rating sentiment analysis](https://www.kaggle.com/code/fatmaabdulfattah/movie-ratings-sentiment-analysis)](#) 
 2. Click "Copy and Edit" to create your own version.
 3. Run the cells sequentially to reproduce the analysis or modify the code.
 
