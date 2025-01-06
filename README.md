@@ -31,16 +31,28 @@ The Kaggle notebook performs sentiment analysis on the IMDB movie review dataset
 3. Run the cells sequentially to reproduce the analysis or modify the code.
 
 
+
 ## Streamlit App
 
 ### Description
 The Streamlit app provides a user-friendly interface for predicting the sentiment of movie reviews. Users can input a review, and the app will classify it as positive or negative using the trained LSTM model.
 
 ### How to Run Locally
+1. Clone this repository:
+```bash
+git clone https://github.com/your-username/your-repo-name.git
 
+2. Navigate to the Streamlit app directory:
+```bash
+cd your-repo-name/streamlit-app
 
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
 
-
+4. Run the Streamlit app:
+```bash
+streamlit run app.py
 
 
 ### Dependencies
