@@ -30,6 +30,19 @@ The Kaggle notebook performs sentiment analysis on the IMDB movie review dataset
 2. Click "Copy and Edit" to create your own version.
 3. Run the cells sequentially to reproduce the analysis or modify the code.
 
+
+## Streamlit App
+
+### Description
+The Streamlit app provides a user-friendly interface for predicting the sentiment of movie reviews. Users can input a review, and the app will classify it as positive or negative using the trained LSTM model.
+
+### How to Run Locally
+
+
+
+
+
+
 ### Dependencies
 The notebook requires the following Python libraries:
 - `pandas`
@@ -39,7 +52,9 @@ The notebook requires the following Python libraries:
 - `tensorflow`
 - `scikit-learn`
 - `nltk`
+- `streamlit`
+- `pickle`
 
 Install the dependencies using:
 ```bash
-pip install pandas numpy matplotlib seaborn tensorflow scikit-learn nltk
+pip install pandas numpy matplotlib seaborn tensorflow scikit-learn nltk streamlit 
